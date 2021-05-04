@@ -43,15 +43,9 @@ https://developer.apple.com/ios/<br>
 
 ## Gallary
 
-<img src="https://drive.google.com/uc?export=view&id=1Zp2BNbrBPGR9hvP3yHWQ0u9xTHGLUad-" width="30%" height="30%" /> |
-<img src="https://drive.google.com/uc?export=view&id=1oKvbAwpameZp8oZp-rxMcFC0YPDnt_Jt" width="30%" height="30%" /> |
-<img src="https://drive.google.com/uc?export=view&id=1Ec1xhK7dNsTtG5ZjaUMYpFCNloX7Dxkx" width="30%" height="30%" /> |
+<img src="https://drive.google.com/uc?export=view&id=1Zp2BNbrBPGR9hvP3yHWQ0u9xTHGLUad-" width="30%" height="30%" /> | <img src="https://drive.google.com/uc?export=view&id=1oKvbAwpameZp8oZp-rxMcFC0YPDnt_Jt" width="30%" height="30%" /> | <img src="https://drive.google.com/uc?export=view&id=1Ec1xhK7dNsTtG5ZjaUMYpFCNloX7Dxkx" width="30%" height="30%" /> 
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1DiphwQRkpIUyPvl_vhnlI3zbh4YzDyxv" width="30%" height="30%" /> |
-<img src="https://drive.google.com/uc?export=view&id=1rUqHed0w7UKj38xxokzTNMPtSOMU9Spq" width="30%" height="30%" /> |
-<img src="https://drive.google.com/uc?export=view&id=18HX3CGcI4bJPMGnqfuvt0O5q5cb5d8zI" width="30%" height="30%" /> |
+<img src="https://drive.google.com/uc?export=view&id=1DiphwQRkpIUyPvl_vhnlI3zbh4YzDyxv" width="30%" height="30%" /> | <img src="https://drive.google.com/uc?export=view&id=1rUqHed0w7UKj38xxokzTNMPtSOMU9Spq" width="30%" height="30%" /> | <img src="https://drive.google.com/uc?export=view&id=18HX3CGcI4bJPMGnqfuvt0O5q5cb5d8zI" width="30%" height="30%" /> 
 <br>
-<img src="https://drive.google.com/uc?export=view&id=1DFCOyGYpRXJdnGav4HS6_6yraGCJr25D" width="30%" height="30%" /> |
-<img src="https://drive.google.com/uc?export=view&id=1ThYQrUDFGN3e6SNndcfBYNi2Vd-6wf3p" width="30%" height="30%" /> |
-<img src="https://drive.google.com/uc?export=view&id=1BV2Hxf_0OF4ZP2S0K227JfCbplCE6nGc" width="30%" height="30%" /> |
+<img src="https://drive.google.com/uc?export=view&id=1DFCOyGYpRXJdnGav4HS6_6yraGCJr25D" width="30%" height="30%" /> | <img src="https://drive.google.com/uc?export=view&id=1ThYQrUDFGN3e6SNndcfBYNi2Vd-6wf3p" width="30%" height="30%" /> | <img src="https://drive.google.com/uc?export=view&id=1BV2Hxf_0OF4ZP2S0K227JfCbplCE6nGc" width="30%" height="30%" /> 
 
