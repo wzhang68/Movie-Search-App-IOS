@@ -20,6 +20,7 @@ https://developer.apple.com/ios/<br>
 * Manage and use external API calls
 
 ## Dev Environment
+* IOS 14
 * macOS Big Sur 11.2.3
 * Xcode 12.4
 * Node 14.16.0
