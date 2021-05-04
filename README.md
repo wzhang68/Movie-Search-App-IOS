@@ -30,7 +30,7 @@ https://developer.apple.com/ios/<br>
 * Node.js
 * Google Cloud Platform (GCP)
 
-## Third party libraries
+## Third Party Libraries
 * Alamofire
 * SwiftyJSON
 * Kingfisher
@@ -40,3 +40,9 @@ https://developer.apple.com/ios/<br>
 <strong>This project is powered by TMDB </strong><br>
 <strong>TMDB: https://www.themoviedb.org/ </strong><br>
 <strong>Developed by Wei Zhang </strong><br>
+
+## Gallary
+![Image of home1](https://drive.google.com/file/d/1Zp2BNbrBPGR9hvP3yHWQ0u9xTHGLUad-/view?usp=sharing)
+![Image of home2](https://drive.google.com/file/d/1oKvbAwpameZp8oZp-rxMcFC0YPDnt_Jt/view?usp=sharing)
+![Image of home3](https://drive.google.com/file/d/1Ec1xhK7dNsTtG5ZjaUMYpFCNloX7Dxkx/view?usp=sharing)
+![Image of home4](https://drive.google.com/file/d/1DiphwQRkpIUyPvl_vhnlI3zbh4YzDyxv/view?usp=sharing)
